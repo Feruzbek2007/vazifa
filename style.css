@@ -1,0 +1,67 @@
+body {
+  background-color: rgb(154, 154, 128);
+ 
+}
+.ism{
+
+border-radius:26px;
+padding:10px ;
+background-color:#FFFFFF;
+margin: 10px ;
+
+  
+}
+
+.menu {
+width: 360px;
+background-color:#F2F2F2;
+margin:auto;
+padding: 0;
+
+}
+.glav{
+width:100%;
+background-color:#FFFFFF; 
+margin-left:0;
+margin-right:0;
+
+}
+.ism h2 {
+  margin-top:0;
+}
+.ism p {
+  margin-bottom:0;
+}
+.knop {
+background-color:black;
+color:white;
+height:36px;
+width:340px;
+border-radius:5px;
+margin-left:10px;
+border-radius: 10px;
+}
+.nomer {
+color:gray; 
+}
+.red {
+border-radius:100%;
+}
+.tel, .boshi {
+  margin-top:0;
+  margin-bottom:0;
+  margin-right:15px;
+}
+.boshi {
+
+  
+}
+
+.tel {
+color:orange;
+
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
